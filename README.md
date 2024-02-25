@@ -34,3 +34,31 @@ This repository contains the HTML and CSS code for my portfolio website. The web
 
 The project structure is organized as follows:
 
+├── assets/                 # Directory for storing images and icons
+│   ├── icons/              # Directory for social media icons
+│   └── pic.png             # Profile picture
+├── index.html              # Main HTML file for the website
+├── style.css               # Main CSS file for styling the website
+├── mediaqueries.css        # CSS file for media queries for responsive design
+├── script.js               # JavaScript file for handling menu toggling
+└── README.md               # This README file
+
+
+## How to Use
+
+1. Clone this repository to your local machine using `git clone`.
+2. Open the `index.html` file in your web browser to view the website locally.
+3. Customize the content and styling in the HTML and CSS files to fit your personal preferences and needs.
+4. Deploy the website to a hosting platform of your choice to make it accessible online.
+
+## Preview
+
+[Include a screenshot or link to a live preview of your portfolio website.]
+
+## Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
