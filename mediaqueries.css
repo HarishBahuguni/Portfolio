@@ -1,0 +1,125 @@
+@media screen and (max-width: 1400px) {
+  #profile {
+    height: 83vh;
+    margin-bottom: 6rem;
+  }
+
+  #contact,
+  #projects {
+    height: fit-content;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  #desktop-nav {
+    display: none;
+  }
+  #hamburger-nav {
+    display: flex;
+  }
+  #education,
+  .education-container {
+    margin-top: 2rem;
+  }
+  #profile,
+  .section-container {
+    display: block;
+  }
+  .arrow {
+    display: none;
+  }
+  section,
+  .section-container {
+    height: fit-content;
+  }
+  section {
+    margin: 0 5%;
+  }
+  .section-pic-container {
+    width: 275px;
+    height: 275px;
+    margin: 0 auto 2rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #contact,
+  footer {
+    height: 40vh;
+  }
+  #profile {
+    height: 83vh;
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0;
+  }
+  footer nav {
+    height: fit-content;
+    margin-bottom: 2rem;
+  }
+  .contact-info-upper-container,
+  .btn-container {
+    flex-wrap: wrap;
+  }
+  .contact-info-container {
+    margin: 0;
+  }
+  .contact-info-container p,
+  .nav-links li a {
+    font-size: 1rem;
+  }
+
+  .logo {
+    font-size: 1.5rem;
+  }
+  .nav-links {
+    flex-direction: column;
+    gap: 0.5rem;
+    text-align: center;
+  }
+  .section-pic-container {
+    width: 90%;
+    height: 40vh;
+    overflow: hidden;
+    justify-content: center;
+    margin: 5px;
+  }
+  .section-pic-container img {
+    max-width: 90%;
+    max-height: 80%;
+  }
+  .section-text-p2 {
+    font-size: 1.25rem;
+  }
+  .education-container,
+  .skills-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  .projects-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin-bottom: 15px;
+  }
+
+  #element {
+    color: rgb(44, 115, 173);
+    font-size: 26px;
+  }
+  .title {
+    text-align: center;
+    font-size: 26px;
+  }
+  .text-container {
+    text-align: justify;
+  }
+  #aboutme {
+    text-align: justify;
+  }
+}
