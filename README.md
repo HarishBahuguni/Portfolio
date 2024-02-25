@@ -38,7 +38,8 @@ This repository contains the HTML and CSS code for my portfolio website. The web
 
 ## Preview
 
-![Preview]([C:\Users\ASUS\Pictures\Screenshots\preview](https://github.com/HarishBahuguni/Portfolio/blob/main/assets/preview.png))
+![portfolio preview]((https://github.com/HarishBahuguni/Portfolio/blob/main/assets/preview.png)?raw=true)
+
 
 
 ## Contributing
