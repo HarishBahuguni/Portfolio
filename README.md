@@ -38,7 +38,8 @@ This repository contains the HTML and CSS code for my portfolio website. The web
 
 ## Preview
 
-[Include a screenshot or link to a live preview of your portfolio website.]
+![Previewt](C:\Users\ASUS\Pictures\Screenshots\preview)
+
 
 ## Contributing
 
