@@ -34,14 +34,14 @@ This repository contains the HTML and CSS code for my portfolio website. The web
 
 The project structure is organized as follows:
 
-`├── assets/ # Directory for storing images and icons
-``│ ├── icons/ # Directory for social media icons
-`│ └── pic.png # Profile picture
-`├── index.html # Main HTML file for the website
-`├── style.css # Main CSS file for styling the website
-`├── mediaqueries.css # CSS file for media queries for responsive design
-`├── script.js # JavaScript file for handling menu toggling
-`└── README.md # This README file
+```├── assets/ # Directory for storing images and icons
+```│ ├── icons/ # Directory for social media icons
+```│ └── pic.png # Profile picture
+```├── index.html # Main HTML file for the website
+```├── style.css # Main CSS file for styling the website
+```├── mediaqueries.css # CSS file for media queries for responsive design
+```├── script.js # JavaScript file for handling menu toggling
+```└── README.md # This README file
 
 
 
